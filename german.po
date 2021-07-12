@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Radiant\n"
 "POT-Creation-Date: 2021-06-14 02:04\n"
-"PO-Revision-Date: 2021-07-13 00:20+0200\n"
+"PO-Revision-Date: 2021-07-13 00:44+0200\n"
 "Language-Team: \n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
@@ -15206,7 +15206,7 @@ msgstr "Körper"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:507
 msgctxt "CharacterEditor,BodyPhysics"
 msgid "Bounce Physics"
-msgstr "Schaukel-Physik"
+msgstr "Bounce-Physik"
 
 #. Key:	BootsGroup
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:480
@@ -15273,7 +15273,7 @@ msgstr "Details"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:519
 msgctxt "CharacterEditor,EditTraits"
 msgid "Traits and States"
-msgstr "Merkmale und Werte"
+msgstr "Merkmale und Status"
 
 #. Key:	ExoticTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:232
