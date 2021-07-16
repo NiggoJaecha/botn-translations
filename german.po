@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Radiant\n"
 "POT-Creation-Date: 2021-06-14 02:04\n"
-"PO-Revision-Date: 2021-07-13 00:44+0200\n"
+"PO-Revision-Date: 2021-07-14 23:46+0200\n"
 "Language-Team: \n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
@@ -1825,7 +1825,7 @@ msgstr "Menschliche Wichse schmeckt genauso, wie ich es mir immer erträumt habe
 #: /Game/Characters/Procedural/Variants/Risu/Harvest/RisuHarvest.Default__RisuHarvest_C.Harvest.Description
 msgctxt ",22657D9344EA0FA193ED4BB66564D308"
 msgid "Risu body fluids."
-msgstr "Risu-Körperflüssigkeiten"
+msgstr "Risu-Körperflüssigkeiten."
 
 #. Key:	226CAB5E40652DCF455036A02B7F0BEF
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(3).LinesGrungy
@@ -8414,7 +8414,7 @@ msgstr "Du brauchst ein Bad. Komm jetzt, platziere deinen Körper zwischen meine
 #: /Game/Dialogue/Leylanna/Default/LeylannaGreeting01.Default__LeylannaGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",99AAA6394A3838FD6FEF1EAA31AD6102"
 msgid "The human comes at last to seek my wisdom."
-msgstr "Zu guter Letzt kommt der Mensch um meine Weisheit zu suchen."
+msgstr "Endlich kommt er, der Mensch, um meine Weisheit zu suchen."
 
 #. Key:	99D4A5E745FE69C8C652C6AC80533D2D
 #. SourceLocation:	/Game/Dialogue/Widow/Default/WidowDefault01_RL.Default__WidowDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -8704,7 +8704,7 @@ msgstr "Schnell: Geschicklichkeit verringert prozentual den Lustverbrauch durch 
 #: Value).TraitIcons.HelpText
 msgctxt ",9F7E04704B60E2F2EC07E9B3308B36FE"
 msgid "Surprise: This one was the product of surprise sex."
-msgstr "Überraschung: Ist das Zeugnis von Überraschungs-Sex"
+msgstr "Überraschung: Ist das Zeugnis von Überraschungs-Sex."
 
 #. Key:	9F82F5BC4976131C6A3861A1CAF32EFA
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMGrasslandsTrees.Default__DMGrasslandsTrees_C.SessionData.Lines(1).Lines
@@ -8838,7 +8838,7 @@ msgstr "Ich will deine weichen Brüste... auf den meinen spüren... ahhh."
 #: /Game/Dialogue/Leylanna/Default/LeylannaGreeting01.Default__LeylannaGreeting01_C.SessionData.Lines(3).Lines
 msgctxt ",A208709240369AEC212F70B1CEFE7BE8"
 msgid "Let us make love to form a covenant in Her holy temple, and you can meet your spirit form."
-msgstr "Lass uns Liebe machen und einen Bund in Ihrem heiligen Tempel formen, dann kannst du deine Seelengestalt treffen."
+msgstr "Lasst uns Liebe machen und ein Bündnis schließen, hier in Ihrem heiligen Tempel, sodass du deiner Seelengestalt begegnen mögest."
 
 #. Key:	A21511DE4632808A0555608E6F6880C6
 #. SourceLocation:	/Game/Dialogue/Widow/Default/WidowScary.Default__WidowScary_C.SessionData.Lines(2).Lines
@@ -10266,7 +10266,7 @@ msgstr "Was ist die unendliche Benommenheit?"
 #: /Game/Dialogue/Yasmine/Default/YasmineHadSex01.Default__YasmineHadSex01_C.SessionData.Lines(1).Lines
 msgctxt ",BD326ED44A2732523BC286AA438967A7"
 msgid "Waves of ecstasy still course through my body."
-msgstr "Wellen der Ekstase strömen noch immer durch meinen Körper. "
+msgstr "Wellen der Ekstase strömen noch immer durch meinen Körper."
 
 #. Key:	BD61F6BE4278688EEA2B878F6E8C6994
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(14).LinesToFemale
@@ -11852,7 +11852,7 @@ msgstr "Komm in meine Umarmung."
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(6).Lines
 msgctxt ",DA2AFA94407EDEA10F42C4A25864E68E"
 msgid "You buy semen from me! I am a first class cum alchemist, and no one knows more about it!"
-msgstr "Du kaufst Sperma von mir! Ich bin ein erste Klasse Wichs-Alchemist, und niemand weiß mehr darüber als ich!"
+msgstr "Du kann bei mir Sperma kaufen! Ich bin eine erste Klasse Wichs-Alchemistin, und niemand weiß mehr darüber als ich!"
 
 #. Key:	DA8A389840F92C11D80A20A1593273B7
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R01.Default__FernDefault01_R01_C.SessionData.Lines(1).Lines
@@ -11894,7 +11894,7 @@ msgstr "@WORLD_NAME@ ist meine Welt."
 #: /Game/Dialogue/Yasmine/Default/YasmineHadSex01.Default__YasmineHadSex01_C.SessionData.Lines(0).Lines
 msgctxt ",DAF3ABC54412C70DC128659F2DB1098C"
 msgid "Oh the songs of pleasure we sang, how good they felt."
-msgstr "Oh, die Lieder des Vergügens, die wir sangen, wie gut sie sich anfühlten. "
+msgstr "Oh, die Lieder des Vergnügens, die wir sangen, wie gut sie sich anfühlten."
 
 #. Key:	DB00D91D4420A5D9D4F3FBB7DD1AC099
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(0).Lines
@@ -11929,7 +11929,7 @@ msgstr "Haha! Menschen denken auch nur an das Eine … ihr seid doch gar nicht s
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",DB4129DC426B367CD877BE889495E940"
 msgid "Let's exchange semen!"
-msgstr "Lass uns Sperma tauschen!"
+msgstr "Lass uns Sperma austauschen!"
 
 #. Key:	DB44149945F62048F1EF0D9C2BF75EFB
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleAnyMeans_RL_T.Default__KybeleAnyMeans_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -14017,7 +14017,7 @@ msgstr "Nicht genug Seelenenergie."
 #: Source/Radiant/Public/Characters/Breeder/SexyBreederController.cpp:784
 msgctxt "ASexyBreederController,NoKeystones"
 msgid "A keystone is required."
-msgstr "Einen Schlüsselstein wird gebraucht."
+msgstr "Du benötigst einen Schlüsselstein."
 
 #. Key:	IncestDisabledMessage
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:399
@@ -14402,7 +14402,7 @@ msgstr "Kybele möchte mit dir sprechen."
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:512
 msgctxt "ASexyWorldSystem,KybeleMateTaskT"
 msgid "Bring to me a Vulwarg with massive muscles! I wish feel like I'm being mounted by a mighty stallion."
-msgstr "Bring mir einen super muskulösen Vulwarg! Ich wünsche mir das Gefühl, von einem mächtigen Hengst beritten zu werden. "
+msgstr "Bring mir einen super muskulösen Vulwarg! Ich wünsche mir das Gefühl, von einem mächtigen Hengst beritten zu werden."
 
 #. Key:	KybeleMateTitle
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:503
@@ -14486,7 +14486,7 @@ msgstr "Übungsdrache"
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:756
 msgctxt "ASexyWorldSystem,PetraMateTask"
 msgid "Pawsmaati gave me the task of practicing her lesson with a \"winged mountain maiden\"!"
-msgstr "Pawsmaati hat mir aufgetragen ihre Lektion mit einer \"Geflügelten Berg-Jungfer\" zu üben."
+msgstr "Pawsmaati hat mir aufgetragen ihre Lektion mit einer \"Geflügelten Berg-Jungfer\" zu üben!"
 
 #. Key:	PetraMateTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:754
@@ -15386,7 +15386,7 @@ msgstr "Verlassen"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:127
 msgctxt "CharacterEditor,LeaveButtonTooltip"
 msgid "Exit the editor. Unsaved changes will be lost."
-msgstr "Verlasse den Editor, nicht gespeicherte Änderungen gehen Verloren "
+msgstr "Verlasse den Editor, nicht gespeicherte Änderungen gehen Verloren ."
 
 #. Key:	LoadUsrPresetTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:175
@@ -17692,7 +17692,7 @@ msgstr "Dieses Nephelym versenden um Gunst zu erhalten?"
 #: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:133
 msgctxt "TaskBoard,Activate"
 msgid "Check Breeding Tasks"
-msgstr "Schau Zuchtaufträge an"
+msgstr "Zuchtaufträge anschauen"
 
 #. Key:	BuyFunds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:39
